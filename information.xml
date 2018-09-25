@@ -1,0 +1,40 @@
+<information>
+	<information>
+		<id> 1 </id>
+		<name> jhon doe </name>
+		<add>
+			<h> 38 </h>
+			<r> 3 </r>
+			<area> Banani, Dhaka </area>
+		</add>
+		<dept> Sales </dept>
+		<salary> $20000 </salary>
+	</information>
+
+	<information>
+		<id> 2 </id>
+		<name> Mark Zukerberg </name>
+		<add>
+			<f> A/1 </f>
+			<h> 20 </h>
+			<r> 18</r>
+			<area> Mirpur, Dhaka </area>
+		</add>
+		<dept> Accounts </dept>
+		<salary> $12000 </salary>
+	</information>
+
+<information>
+		<id> 3 </id>
+		<name> Ala Voski </name>
+		<add>
+			<h> 38 </h>
+			<r> 3 </r>
+			<area> Motijheel </area>
+		</add>
+		<dept> human resource </dept>
+		<salary> $30000 </salary>
+	</information>
+
+</information>
+
